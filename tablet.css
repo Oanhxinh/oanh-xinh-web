@@ -1,0 +1,317 @@
+@media(max-width:835px) {
+    .tìmkiếm {
+        display: none;
+    }
+
+    .icon2 {
+        display: block;
+        color: white;
+        font-size: 20px;
+        padding-right: 0;
+    }
+
+    .Đầu {
+        width: 75%;
+        max-width: 617px;
+        margin: 0;
+    
+    }
+
+    .icon4 {
+        margin-left: 5px;
+
+    }
+
+    .icon1 {
+        margin-left: 0;
+        margin-right: 0;
+        font-size: 25px;
+        
+    }
+
+    .Cuối {
+        width: 20.7%;
+        margin-right: 0;
+        padding-right: 21px;
+        justify-content: space-around;
+    }
+
+    .content1 {
+        margin: 0;;
+        font-size: 20px;
+    }
+    .trai{
+        margin: 0;
+        width: 337px;
+    }
+
+    .trang{
+        margin-left: 6px;
+    }
+    .phantrang {
+        margin: 17px 71px;
+    }
+
+    .icon3 {
+        margin-left: 32px;
+        margin-right: 2px;
+    }
+
+    .img {
+        height: 77px;
+        width: 51px;
+        margin-bottom: 20px;
+    }
+    .img2{
+        height: 77px;
+        width: 51px;
+        margin-bottom: 20px; 
+    }
+    
+    .anh2 {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    
+    .anh {
+        height: 374px;
+        width: 264px;
+    }
+
+    .tieude {
+        font-size: 16px;
+    }
+
+    .hinhtron {
+        width: 26px;
+        height: 26px;
+        margin-left: 30px;
+        margin-right: 27px;
+    }
+
+    .hinhtron2 {
+        width: 26px;
+        height: 26px;
+        margin-right: 27px;
+    }
+
+    .hinhtron3 {
+        width: 26px;
+        height: 27px;
+    }
+
+    .dong2 {
+        font-size: 16px;
+    }
+
+    .dong3 {
+        font-size: 16px;
+    }
+
+    .xs {
+        width: 37px;
+        height: 25px;
+        font-size: 16px;
+    }
+
+    .xs:hover {
+        width: 37px;
+        height: 25px;
+        font-size: 16px;
+    }
+
+    .s {
+        width: 37px;
+        height: 25px;
+        font-size: 16px;
+    }
+
+    .m {
+        width: 37px;
+        height: 25px;
+        font-size: 16px;
+    }
+
+    .size {
+        font-size: 16px;
+    }
+
+    .dong4 {
+        font-size: 16px;
+    }
+
+    .dong5 {
+        font-size: 16px;
+    }
+
+    .nut {
+        display: none;
+    }
+    .trangchu{
+        margin-right: 6px;
+    }
+    .spm{
+        margin: 0 2px;
+    }
+    .nutdungflex {
+        display: block;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nut1 {
+        width: 162px;
+        height: 40px;
+        padding: 10px;
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+
+    .nut2 {
+        width: 162px;
+        height: 40px;
+        padding: 10px;
+        margin-right: 0;
+    }
+
+    .dong7 {
+        display: none;
+    }
+
+    .dong8 {
+        display: none;
+    }
+
+    .dong9 {
+        display: none;
+    }
+    .phai{
+        margin: 0;
+        margin-left: 71px;
+    }
+    .duoi {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        margin-left: 70px;
+    }
+
+    .dong10 {        margin-bottom: 8px;
+        font-weight: 600;
+        font-size: 16px;
+
+    }
+    .dong11 {
+        line-height: 30px;
+        margin-bottom: 8px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .dong12 {
+        margin-bottom: 8px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .dong13 {
+        margin-bottom: 8px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .cuoicung {
+        display: block;
+        width: 85.13%;
+        margin: 28px auto;
+    }
+
+    .sanphamlienquan {
+        display: flex;
+        justify-content: center;
+        font-weight: 600;
+        font-size: 16px;
+        margin-bottom: 28px;
+    }
+
+    .hinhanhsanpham {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .footer {
+        height: 133px;
+        display: flex;
+        justify-content: flex-start;
+
+    }
+    .logo1{
+        margin: 0;
+        width: 20%;
+    }
+    .logo{
+        margin: 0;
+    }
+
+    .logo2 {
+        width: 168.3px;
+        height: 129.46px;
+
+    }
+
+    .dichvu1 {
+        font-size: 16px;
+        margin-bottom: 17px;
+        font-weight: 600;
+    }
+
+    .dichvu {
+        line-height: 17px;
+        font-size: 12px;
+        margin-top: 22px;
+        font-weight: 300;
+    }
+
+    .lienhe1 {
+        font-size: 16px;
+        margin-bottom: 17px;
+    }
+
+    .lienhe {
+        line-height: 17px;
+        font-size: 12px;
+        margin-top: 22px;
+    }
+
+    .cuahang {
+        line-height: 17px;
+        font-size: 12px;
+        margin-top: 22px;
+    }
+
+    .cuahang1 {
+        font-size: 16px;
+        margin-bottom: 17px;
+    }
+    .vechungtoi {
+        line-height: 17px;
+        font-size: 12px;
+        margin-top: 22px;
+    }
+
+    .vechungtoi1 {
+        font-size: 16px;
+        margin-bottom: 17px;
+    };
+    .thongtin{
+        display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    }
+    .than{
+        margin:0;
+        margin-left: 70px;    }
+}
