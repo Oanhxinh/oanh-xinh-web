@@ -1,8 +1,4 @@
 @media(max-width:441px) {
-    .content {
-        display: none;
-    }
-
     .icon5 {
         display: block;
         font-size: 20px;
@@ -28,23 +24,12 @@
         font-size: 12px;
     }
 
-    .than {
-        display: flex;
-        flex-direction: column;
-        margin: 0;
-    }
-
     .trai {
         display: flex;
         flex-direction: column-reverse;
         width: 100%;
 
     }
-
-    .container {
-        margin: 0;
-    }
-
     .anh {
         margin: 0;
         width: 100%;
@@ -119,8 +104,8 @@
     }
 
     .duoi {
-        margin: 0 18px;
         max-width: 90%;
+        margin: 0;
     }
 
     .dong10 {
