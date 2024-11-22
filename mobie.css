@@ -120,6 +120,7 @@
 
     .duoi {
         margin: 0 18px;
+        max-width: 90%;
     }
 
     .dong10 {
@@ -143,51 +144,18 @@
     .splq1 {
         display: none;
     }
-
-    .footer {
-        width: 100%;
-        height: 76px;
-    }
-
-    .logo2 {
-        width: 122px;
-        height: 73px;
-    }
-    .dichvu{
-        display: none;
-    }
-    .cuahang{
-        display: none;
-    }
-    .vechungtoi{
-        display: none;
-    }
-    .lienhe{
-        margin: 0;
-        display: flex;
-        align-items: center;
-        height: 100%;
-        margin-right: 20px;
-    
-    }
-    .lhe{
-               font-size: 12px;
-
-    }
-    .lienhe1{
-        align-items: center;
-       margin: 0;
-       margin-right: 13px;
-    }
-    .thongtin{
-        margin: 0;
-        width: 100%;
-        justify-content: flex-end;
-    }
     .cuoicung{
-        margin: 18px 26px;
-    }
+        padding: 0 18px;
+        width: 100%;    }
     .content1{
+        display: none;
+    }
+}
+@media(max-width:351px) {
+    #img6{
+        display: none;
+    }
+    .img:nth-child(3){
         display: none;
     }
 }

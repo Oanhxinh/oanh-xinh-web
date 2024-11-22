@@ -1,5 +1,3 @@
-/* hihi */
-/* hihihiihihihihih */
 
 @media(max-width:835px) {
     .tìmkiếm {
@@ -55,11 +53,6 @@
         margin: 17px 71px;
     }
 
-    .icon3 {
-        margin-left: 32px;
-        margin-right: 2px;
-    }
-
     .img {
         height: 77px;
         width: 51px;
@@ -106,6 +99,7 @@
 
     .dong2 {
         font-size: 16px;
+
     }
 
     .dong3 {
@@ -193,7 +187,7 @@
     }
     .phai{
         margin: 0;
-        margin-left: 71px;
+        margin-left: 8.39%;
     }
     .duoi {
         display: block;
@@ -211,7 +205,6 @@
         line-height: 30px;
         margin-bottom: 8px;
         font-size: 16px;
-        line-height: 20px;
     }
 
     .dong12 {
@@ -222,7 +215,7 @@
     .dong13 {
         margin-bottom: 8px;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 30px;
     }
 
     .cuoicung {
@@ -247,7 +240,6 @@
 
     .footer {
         height: 133px;
-        display: flex;
         justify-content: flex-start;
 
     }
@@ -316,5 +308,90 @@
     }
     .than{
         margin:0;
-        margin-left: 70px;    }
+        margin-left: 8.39%;    }
+}
+@media(max-width:791px){
+    .Đầu{
+        min-width:593.4px;
+    }
+}
+@media(max-width:711px){
+    .Đầu{
+        min-width: 73.9px;
+        margin: 0;
+        padding-left: 8%;
+
+    }
+    .Cuối{
+        padding: 0;
+    }
+    .content{
+        display: none;
+    }
+    .than{
+        flex-direction: column;
+        margin: 0;
+        align-items: center;    }
+    .phantrang{
+        margin: 13px auto;
+    }
+    .duoi{
+        margin: 0 auto;
+        padding-left: 2%;
+        width: 100%;
+        align-items: center;
+
+    }
+    .trai{
+        width: 95%;
+        margin: 0;
+        justify-content: center;
+
+    }
+    .phai{
+        width: 95%;
+        margin:0;
+    }
+    .splq1{
+        display: none;
+    }
+    .footer{
+        width: 100%;
+        height: 76px;
+    }
+    .logo2 {
+        width: 122px;
+        height: 73px;
+    }
+    .dichvu{
+        display: none;
+    }
+    .cuahang{
+        display: none;
+    }
+    .vechungtoi{
+        display: none;
+    }
+    .lienhe{
+        margin: 0;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        margin-right: 20px;
+    
+    }
+    .lhe{
+     font-size: 12px;
+
+    }
+    .lienhe1{
+        align-items: center;
+       margin: 0;
+       margin-right: 13px;
+    }
+    .thongtin{
+        margin: 0;
+        width: 100%;
+        justify-content: flex-end;
+    }
 }
