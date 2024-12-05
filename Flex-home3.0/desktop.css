@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 670fr 1270fr;
+    background-color: white;
+    aspect-ratio: 1940/1050;
+}
+
+.container_left {
+    padding: 60rem 48rem 0;
+}
+
+.container_right {
+    background-image: url("./img/bg.png");
+    overflow: hidden;
+    background-size: cover;
+    position: relative;
+}
+
+.navigation {
+    border-top: 1rem solid #3b3b3b;
+    border-bottom: 1rem solid #3b3b3b;
+    align-items: center;
+
+}
+
+.total {
+    display: none;
+}
+
+.footer {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img_map {
+    width: 96rem;
+    height: 96rem;
+}
+
+.product {
+    height: 258rem;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding-left: 24rem;
+}
+
+.navigation img {
+    width: 36rem;
+    height: 36rem;
+}
+
+.tower>img {
+    margin-right: 48rem;
+    width: 334rem;
+    height: 588rem;
+}
+
+.floor {
+    position: relative;
+}
+
+.img_logo {
+    width: 168rem;
+    height: 48rem;
+}
+
+.map :first-child {
+    width: 36rem;
+    height: 144rem;
+    margin-right: 250rem;
+    margin-top: 276rem;
+}
+
+.map :last-child {
+    width: 698rem;
+    height: 624rem;
+    margin-top: 72rem;
+}
+.map {
+    display: flex;
+}
+.floor1 {
+    background-color: black;
+    color: white;
+}
+
+.hack {
+    width: 22rem;
+    height: 210rem;
+    border: 1rem solid white;
+}
+
+.icon {
+    width: 36rem;
+    height: 12rem;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 18rem;
+}
+
+.floor p {
+    position: absolute;
+    top: 21rem;
+    right: 44rem;
+    padding: 0 12rem;
+    background-color: white;
+}
+
+.numberoffloors {
+    padding: 18rem 0;
+    border-bottom: 1rem solid #3b3b3b;
+    border-top: 1rem solid #3b3b3b;
+}
+
+.icon_down {
+    margin: 0 auto;
+    margin-top: 18rem;
+    display: block;
+    width: 36rem;
+    height: 12rem;
+}
+
+.img_room {
+    width: 162rem;
+    height: 162rem;
+}
+
+.description {
+    color: white;
+    text-align: end;
+}
+
+.icon_contact {
+    width: 18rem;
+    height: 18rem
+}
+
+.description h2 {
+    font-size: 24rem;
+}

@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+    box-sizing: border-box;
+}
+.FlexHome{
+    display: flex;
+}
+.Trai{
+    Width:670px;
+    Height:1050px;
+    padding: 60px 48px 23px 48px;
+}
+.Duan{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41.4px;
+}
+.chudautu{
+    padding-top:36px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.4px;
+}
+.diachi{
+    padding-top:24px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.4px;
+}
+.toanha{
+    width: 574px;
+    height: 60px ;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid black ;
+    border-bottom:1px solid black ;
+    margin-top: 48px;
+
+}
+.icontoanha{
+    height: 36px;
+    width: 36px;
+    margin-right: 24px;
+    }
+.a1{
+    padding-right:36px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.4px;
+    color: black;
+}
+.a2{
+    padding-right:36px;
+    font-size: 16px;
+    line-height: 18.4px;}
+.a3{
+    padding-right:36px;
+    font-size: 16px;
+    line-height: 18.4px;}
+.gach{
+    width: 1px;
+    height: 36px;
+    background: black;
+    margin-right: 24px;
+
+}
+.giuatrai{
+    padding-top: 48px;
+}
+.textchon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 7px;
+    
+}
+.gach2{
+    width: 44px;
+    height: 1px;
+    background-color: #3b3b3b;   
+    margin-right: 6px;
+}
+.gach3{
+    width: 44px;
+    height: 1px;
+    background-color: #3b3b3b;   
+    margin-left: 6px;
+}
+.anhtoanha{
+    width: 334px;
+    height: 588px;
+    object-fit: cover;
+    margin-right: 48px;
+}
+.giuatrai{
+    display: flex;
+}
+.chontang{
+    text-align: center;
+    margin-right: 48px;
+    width: 192px;
+    height: 588px;
+}
+.tang{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.4px;
+    
+}
+.tang2{
+    display: flex;
+    margin-top: 18px;
+}
+.tang3{
+    display: flex;
+    margin-top: 24px;
+}
+
+.hinhtro1{
+width: 48px;
+height: 48px;
+border-radius: 50%;
+font-Weight:400;
+font-Size:16px;
+Line-height:18.4px;
+border: 1px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 24px;
+}
+.hinhtro1:hover{
+    background-color: black;
+    color: white;
+}
+.hinhtro2{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    font-Weight:400;
+    font-Size:16px;
+    Line-height:18.4px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+.hinhtro2:hover{
+        background-color: black;
+        color: white;
+    }
+.gach4{
+        width: 192px;
+        height: 1px;
+        background-color: #3b3b3b;   
+        margin-top: 18px;
+    }
+.icon3{
+    margin-top: 18px;
+}
+.duoi{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 36px;
+}
+.duotrai{
+    display: flex;
+}
+.icon5{
+    margin-right: 12px;
+}
+.dienthoai{
+    margin-right: 24px;
+    display: flex;
+    align-items: center;
+}
+.Chiase{
+    margin-right: 24px;
+    display: flex;
+    align-items: center;
+}
+.Shortlink{
+    display: flex;
+    align-items: center;
+}
+.Phai{
+    background-image:url('./img/anhnen.png');
+    width: 1270px;
+    height: 1050px;
+    position: relative;
+}
+.anhnen{
+    width: 1270px;
+    display: flex;
+    justify-content: center;
+    margin-top: 72px;
+}
+.anhnut{
+    position:absolute ;
+    top:276px;
+}
